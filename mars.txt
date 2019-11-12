@@ -4,4 +4,8 @@ The Mummy will appreciate the lack of humidity
 Maybe I should go to Venus
 An ill-considered change
 Creature from the Black Lagoon is also here
+<<<<<<< HEAD
 No creature was found in the Black Lagoon
+=======
+Good, that might provide for some good barbque
+>>>>>>> ce3ac0fad0fe0b798ce4d2e784d78e2d8387464a
